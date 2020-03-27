@@ -3,8 +3,10 @@
 Projeto back-end para controle de alunos/planos de uma academia.
 
 **Integração com:**
+
 Mobile:
 [GymPoint Mobile](https://github.com/shedok/gympointmobile)
+
 Web:
 [GymPoint Web](https://github.com/shedok/gympointweb)
 
@@ -12,7 +14,7 @@ Web:
 
 Banco de dados utilizado:
 
-- PostgreSQL ultilizando container no Docker
+- PostgreSQL com container no Docker
 
 Criar as seguintes tabelas:
 
